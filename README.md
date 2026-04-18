@@ -25,6 +25,3 @@
 Сводные таблицы характеристик – в `results/Summary_Tables.md`.  
 Номиналы элементов – в `circuits/component_values.md`.  
 Подробные отчёты по каждому типу – в папке `docs/`.
-
-
-MI
